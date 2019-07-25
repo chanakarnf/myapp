@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-aaaaa
-=======
 yaaaa
->>>>>>> feature2
+
